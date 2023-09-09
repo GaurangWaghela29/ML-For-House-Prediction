@@ -1,0 +1,11 @@
+Model Outputs
+
+
+1. Linear Regression:
+Mean:  4.343182388720299
+Standard deviation:  0.7468729326276244
+
+
+2. Decision Tree:
+Mean:  4.129010689907867
+Standard deviation:  0.8578240997087876
